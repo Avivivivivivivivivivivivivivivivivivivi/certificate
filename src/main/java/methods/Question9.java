@@ -1,6 +1,8 @@
+package methods;
+
 import java.util.Stack;
 
-public class QuestionNine {
+public class Question9 {
   public static void main(String args[]) {
     Stack s1 = new Stack();
     Stack s2 = new Stack();

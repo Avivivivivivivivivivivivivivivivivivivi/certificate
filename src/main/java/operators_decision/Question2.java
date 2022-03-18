@@ -1,4 +1,6 @@
-public class QuestionTwo {
+package operators_decision;
+
+public class Question2 {
   public static void main(String args[]) {
     char c;
     int i;

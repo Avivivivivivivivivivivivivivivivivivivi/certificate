@@ -1,6 +1,8 @@
-public class QuestionSeven {
+package operators_decision;
+
+public class Question7 {
   public static void main(String[] args) throws Exception {
-    QuestionSeven tc = new QuestionSeven();
+    Question7 tc = new Question7();
     tc.switchString("B");
   }
 

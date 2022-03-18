@@ -1,4 +1,6 @@
-public class QuestionThree {
+package methods;
+
+public class Question3 {
   static String s1 = sM1("a");
   static String s2 = sM1("c");
 
@@ -13,12 +15,12 @@ public class QuestionThree {
     s1 = sM1("3");
   }
 
-  public QuestionThree() {
+  public Question3() {
     s1 = sM1("1");
   }
 
   public static void main(String args[]) {
-    QuestionThree it = new QuestionThree();
+    Question3 it = new Question3();
   }
 
   private static String sM1(String s) {

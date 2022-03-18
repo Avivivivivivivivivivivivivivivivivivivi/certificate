@@ -1,4 +1,6 @@
-public class QuestionFour {
+package loops;
+
+public class Question4 {
   public static void main(String[] args) throws Exception {
     int i = 1, j = 10;
     do {

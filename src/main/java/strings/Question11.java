@@ -1,4 +1,6 @@
-public class QuestionEleven {
+package strings;
+
+public class Question11 {
   public static void main(String[] args) {
     String myStr = "good";
     char[] myCharArr = {'g', 'o', 'o', 'd'};
