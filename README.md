@@ -1,1 +1,1 @@
-﻿# JAVA certificate testing project
+# JAVA certificate testing project
